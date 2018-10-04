@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Article</string>
+    <string name="all_please_wait">Please wait..</string>
+    <string name="published_on">Published on:</string>
+    <string name="featured">Featured</string>
+    <string name="feature_article">Feature article</string>
+    <string name="featured_image">Featured image</string>
+</resources>
